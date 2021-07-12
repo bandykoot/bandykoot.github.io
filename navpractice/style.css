@@ -1,0 +1,76 @@
+
+body{
+  margin:0;  
+  padding:0;
+
+}
+.outer{
+   text-align: center;
+   padding:20px;
+}
+.page{
+   width:800px;
+   height:95vh;
+   display: inline-block;
+   text-align:left;
+   padding:10px;
+   background-color: white;
+}
+a{
+  color:whitesmoke;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: black;
+  font-size:18px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right:50px;
+}
+
+a:hover {
+  background-color:coral;  
+ }
+  a:active {
+  background-color:#666;
+  color: coral;
+}
+.nav{
+  font-family: sans-serif;
+   margin-left:0px;
+   margin-top: 0px;
+   text-align: center;
+   background-color: black;
+   padding: 100px;
+}
+
+.poemtitle{
+  font-family: Lora;
+  font-weight: 700;
+  font-size: 42px;
+}
+
+.poembody{
+  font-family: Lora;
+  font-weight: 400;
+  font-size: 28px;
+
+} 
+
+.poemauthor{
+  font-family: Lora;
+  font-weight: 400;
+  font-size: 28px;
+  font-style: italic;
+
+} 
+
+.img{
+  margin: 0;
+  padding: 0;
+  float: left;
+  padding: 20px;
+  margin-left: 20px;
+  display: inline-block;
+} 
+	  
