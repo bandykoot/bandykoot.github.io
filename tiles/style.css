@@ -7,8 +7,8 @@ body{
 
 @font-face {
     font-family: 'flyerfontsdisengage';
-    src: url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
-         url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
+    src: url('https://bandykoot.github.io/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
+         url('https://bandykoot.github.io/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
