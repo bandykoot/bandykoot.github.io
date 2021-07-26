@@ -14,16 +14,16 @@ body{
 }
 @font-face {    
     font-family: 'flyerfontscorrosion';
-    src: url('/fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
-         url('/fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
+    src: url('fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
+         url('fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'ashyhouseregular';
-    src: url('/fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
-         url('/fonts/ashy/ashyhouse-webfont.woff') format('woff');
+    src: url('fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
+         url('fonts/ashy/ashyhouse-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
