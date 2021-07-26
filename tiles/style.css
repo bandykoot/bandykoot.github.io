@@ -1,0 +1,159 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+
+}
+
+@font-face {
+    font-family: 'flyerfontsdisengage';
+    src: url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {    
+    font-family: 'flyerfontscorrosion';
+    src: url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ashyhouseregular';
+    src: url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/tiles/fonts/ashy/ashyhouse-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.outer{
+	text-align: center;
+	background-color: #000;
+	position: relative;
+}
+
+.page{
+	position: relative;
+	margin-top:0px;
+	max-width:1200px;
+	width: 100%;
+	height:100%;
+	display: inline-block;
+}
+
+
+.nav{
+	background-color: #000;
+	height: 120px;
+	position: absolute;
+	position: sticky;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0;
+	z-index: 99;
+}
+
+.navtext{
+	font-family: flyerfontsdisengage, sans serif;
+	font-size: 28px;
+	padding-right: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	height: 120px;
+	width: 1260px;
+	position: sticky;
+	margin-top: -120px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0;
+	z-index: 100;
+}
+
+.navtext a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.logo{
+	height: 120px;
+}
+
+.firstquote{
+	position: absolute;
+	width: 50%;
+	margin-top: 30px;
+	font-family: ashyhouseregular, sans serif;
+	font-weight: bold;
+	font-size: 48px;
+	background-color: #000;
+	color: #fff;
+	text-align: Left;
+	justify-content: center;
+}
+
+.quote{
+	position: absolute;
+	width: 50%;
+	margin-top: 30px;
+	font-family: ashyhouseregular, sans serif;
+	font-weight: bold;
+	font-size: 48px;
+	background-color: #000;
+	color: #fff;
+	text-align: Left;
+	justify-content: center;
+}
+
+.tile{
+	height: 800px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+
+}
+
+.past{
+	background-image: url("img/past.jpg");
+}
+
+.present{
+	background-image: url("img/present.jpg");
+}
+
+.old{
+	background-image: url("img/old.jpg");
+}
+
+.young{
+	background-image: url("img/young.jpg");
+}
+
+.east{
+	background-image: url("img/east.jpg");
+}
+
+.west{
+	background-image: url("img/west.jpg");
+}
+
+.street{
+	background-image: url("img/street.jpg");
+}
+
+.park{
+	background-image: url("img/park.jpg");
+}
+
+.crime{
+	background-image: url("img/crime.jpg");
+}
+
+.olympics{
+	background-image: url("img/olympics.jpg");
+}
