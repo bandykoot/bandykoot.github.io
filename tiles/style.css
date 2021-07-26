@@ -1,14 +1,14 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: red;
+	background-color: #000;
 
 }
 
 @font-face {
     font-family: 'flyerfontsdisengage';
-    src: url('css/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
-         url('css/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
+    src: url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -88,7 +88,7 @@ body{
 	position: absolute;
 	width: 50%;
 	margin-top: 30px;
-	font-family: ashyhouseregular, sans serif;
+	font-family: ashyhouseregular, arial, sans-serif;
 	font-weight: bold;
 	font-size: 48px;
 	background-color: #000;
@@ -101,7 +101,7 @@ body{
 	position: absolute;
 	width: 50%;
 	margin-top: 30px;
-	font-family: ashyhouseregular, sans serif;
+	font-family: ashyhouseregular, arial, sans-serif;
 	font-weight: bold;
 	font-size: 48px;
 	background-color: #000;
