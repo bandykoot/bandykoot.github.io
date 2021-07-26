@@ -7,23 +7,23 @@ body{
 
 @font-face {
     font-family: 'flyerfontsdisengage';
-    src: url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
-         url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
+    src: url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/css/fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/blob/main/tiles/css/fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {    
     font-family: 'flyerfontscorrosion';
-    src: url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
-         url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
+    src: url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/css/fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/css/fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'ashyhouseregular';
-    src: url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
-         url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/fonts/ashy/ashyhouse-webfont.woff') format('woff');
+    src: url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/css/fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
+         url('https://github.com/bandykoot/bandykoot.github.io/tree/main/tiles/css/fonts/ashy/ashyhouse-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
