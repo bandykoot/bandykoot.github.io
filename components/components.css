@@ -1,0 +1,110 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'flyerfontsdisengage';
+    src: url('fonts/disengage/flyerfonts-disengage-webfont.woff2') format('woff2'),
+         url('fonts/disengage/flyerfonts-disengage-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {    
+    font-family: 'flyerfontscorrosion';
+    src: url('fonts/corrosion/flyerfonts-corrosion-webfont.woff2') format('woff2'),
+         url('fonts/corrosion/flyerfonts-corrosion-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ashyhouseregular';
+    src: url('fonts/ashy/ashyhouse-webfont.woff2') format('woff2'),
+         url('fonts/ashy/ashyhouse-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.outer{
+	text-align: center;
+	background-color: #fff;
+	height: 100vh;
+}
+
+.page{
+	max-width: 1200px;
+	background-color: #fff;
+	height: 98vh;
+}
+
+
+.container{
+	width: 100%;
+	margin: auto;
+}
+
+.row{
+	position: relative;
+	width: 100%;
+}
+
+
+.mainvideo{
+	width: 96%;
+	height: 500px;
+	background-color: coral;
+	display: inline-block;
+	border: 1px solid;
+	overflow: hidden;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.maintitle{
+	font-family: flyerfontsdisengage, sans serif;
+	font-size: 28px;
+	font-weight: bold;
+	color: #000;
+
+}
+
+.maintext{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #000;
+}
+
+.movies{
+	width: 19%;
+	height: 160px;
+	backgroun-color: aliceblue;
+	display: inline-block;
+	border: 1px solid;
+	overflow: hidden;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.moviestitle{
+	font-family: flyerfontsdisengage, sans serif;
+	width: 19%;
+	color: #000;
+	display: inline-block;
+	height: 80px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.sponsors{
+	width: 9.33%;
+	height: 100px;
+	background-color: #000;
+	display: inline-block;
+	overflow: hidden;
+	border: 1px solid;
+}
